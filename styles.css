@@ -1,0 +1,83 @@
+h4 {
+    text-align: center;
+    border-bottom: 2px solid;
+    padding-bottom: 10px
+
+
+}
+div.paquetes input {
+    clear: both;
+    width: 33.3%;
+    margin: 10px auto 0 auto;
+    display: block;
+}
+.contenido-dia {
+    padding: 20px;
+    display: none;
+}
+.contenido-dia > div {
+    float: left;
+    width: 33.3%;
+    padding-right: 5px;
+}
+
+.contenido-dia > div p {
+    text-align: left;
+}
+
+.contenido-dia > div label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.contenido-dia > div input {
+    margin-right: 10px;
+}
+
+.contenido-dia > div label time {
+    color: dodgerblue;
+    font-weight: bold;
+}
+strong {
+    color: dodgerblue;  
+}
+h1 {
+    color: dodgerblue;
+    
+}
+.resumen p {
+    text-transform: uppercase;
+    text-align: center;
+}
+div.resumen .extras {
+    float: left;
+    width: 50%;
+    
+}
+
+div.resumen div.orden {
+    text-align: left;
+    margin-bottom: 10px;
+}
+div.extras div.orden input {
+    margin: 10px 0 0 0 ;
+}
+div.resume div.total {
+    float: right;
+    width: 50%;
+    
+}
+div.resumen input {
+    display: block;
+    margin: 10px auto;
+}
+#lista-productos {
+    background-color: #e1e1e1e1;
+    padding: 20px;
+        margin-left: 550px;
+        margin-right: 20px;
+        display: none;
+}
+#suma-total {
+    margin-left: 770px;
+}
